@@ -13,5 +13,4 @@ def gather_movies(filename):
         movies.append(media.Movie(m["title"], m["storyline"], m["poster_image"], m["trailer_youtube_url"]))
     return movies
 
-#print gather_movies("favorite_movies.json")
 fresh_tomatoes.open_movies_page(gather_movies("favorite_movies.json"))
