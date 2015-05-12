@@ -1,14 +1,17 @@
+import fresh_tomatoes
 import media
+import json
 
-toy_story = media.Movie("Toy Story",
-                        "A story of a boy and his toys that come to life",
-                        "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
-                        "https://www.youtube.com/watch?v=vwyZH85NQC4")
+# gathers movie data from a .json file and returns a list of Movie objects
+def gather_movies(filename):
+    # open the .json file and convert it to a dictionary
+    movie_data = json.loads(open(filename).read())
+    movies = []
+    for movie in movie_data:
+        m = movie_data[movie]
+        # create a media.Movie instance for each movie
+        movies.append(media.Movie(m["title"], m["storyline"], m["poster_image"], m["trailer_youtube_url"]))
+    return movies
 
-print(toy_story.storyline)
-avatar = media.Movie("Avatar",
-                        "A marine on an alien planet",
-                        "http://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg",
-                        "https://youtu.be/5PSNL1qE6VY")
-print(avatar.storyline)
-
+#print gather_movies("favorite_movies.json")
+fresh_tomatoes.open_movies_page(gather_movies("favorite_movies.json"))

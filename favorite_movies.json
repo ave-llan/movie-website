@@ -1,0 +1,38 @@
+{
+    "motorcycle_diaries": {
+        "title":"The Motorcycle Diaries",
+        "storyline":"The dramatization of a motorcycle road trip Che Guevara went on in his youth that showed him his life's calling.",
+        "poster_image":"http://upload.wikimedia.org/wikipedia/en/9/9b/The_Motorcycle_Diaries.jpg",
+        "trailer_youtube_url":"https://www.youtube.com/watch?v=u6jz_b80V5g"
+    },
+    "inside_llewyn_davis": {
+        "title":"Inside Llewyn Davis",
+        "storyline":"A week in the life of a young singer as he navigates the Greenwich Village folk scene of 1961.",
+        "poster_image":"http://upload.wikimedia.org/wikipedia/en/d/df/Inside_Llewyn_Davis_Poster.jpg",
+        "trailer_youtube_url":"https://www.youtube.com/watch?v=LFphYRyH7wc"
+    },
+    "midnight_in_paris": {
+        "title":"Midnight in Paris",
+        "storyline":"While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
+        "poster_image":"http://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Midnight_in_Paris_Poster.jpg/215px-Midnight_in_Paris_Poster.jpg",
+        "trailer_youtube_url":"https://www.youtube.com/watch?v=FAfR8omt-CY"
+    },
+    "annie_hall": {
+        "title":"Annie Hall",
+        "storyline":"Neurotic New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+        "poster_image":"http://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Anniehallposter.jpg/220px-Anniehallposter.jpg",
+        "trailer_youtube_url":"https://www.youtube.com/watch?v=TBzHphcc2Jw"
+    },
+    "fargo": {
+        "title":"Fargo",
+        "storyline":"Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+        "poster_image":"http://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Fargo.jpg/220px-Fargo.jpg",
+        "trailer_youtube_url":"https://www.youtube.com/watch?v=EB4PmbfG4bw"
+    },
+    "social_network": {
+        "title":"The Social Network",
+        "storyline":"Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the cofounder who was later squeezed out of the business.",
+        "poster_image":"http://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Social_network_film_poster.jpg/220px-Social_network_film_poster.jpg",
+        "trailer_youtube_url":"https://www.youtube.com/watch?v=lB95KLmpLR4"
+    }
+}
