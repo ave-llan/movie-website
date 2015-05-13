@@ -34,5 +34,23 @@
         "storyline":"Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the cofounder who was later squeezed out of the business.",
         "poster_image":"http://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Social_network_film_poster.jpg/220px-Social_network_film_poster.jpg",
         "trailer_youtube_url":"https://www.youtube.com/watch?v=lB95KLmpLR4"
+    },
+    "y_tu_mama_tambien": {
+        "title":"Y Tu Mama Tambien",
+        "storyline":"In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+        "poster_image":"http://upload.wikimedia.org/wikipedia/en/thumb/6/63/Y_tu_mam%C3%A1_tambi%C3%A9n_poster.png/220px-Y_tu_mam%C3%A1_tambi%C3%A9n_poster.png",
+        "trailer_youtube_url":"https://www.youtube.com/watch?v=3Qg6n7V3kO4"
+    },
+    "gravity": {
+        "title":"Gravity",
+        "storyline":"In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+        "poster_image":"http://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Gravity_Poster.jpg/220px-Gravity_Poster.jpg",
+        "trailer_youtube_url":"https://www.youtube.com/watch?v=OiTiKOy59o4"
+    },
+    "the_one_i_love": {
+        "title":"The One I Love",
+        "storyline":"Struggling with a marriage on the brink of falling apart, a couple escapes for a weekend in pursuit of their better selves, only to discover an unusual dilemma that awaits them.",
+        "poster_image":"http://upload.wikimedia.org/wikipedia/en/thumb/4/41/TOIL_poster.jpg/220px-TOIL_poster.jpg",
+        "trailer_youtube_url":"https://www.youtube.com/watch?v=jCOvhojlZzQ"
     }
 }
