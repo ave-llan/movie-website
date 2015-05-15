@@ -1,7 +1,7 @@
 {
     "motorcycle_diaries": {
         "title":"The Motorcycle Diaries",
-        "storyline":"The dramatization of a motorcycle road trip Che Guevara went on in his youth that showed him his life's calling.",
+        "storyline":"The dramatization of a motorcycle road trip Che Guevara went on in his youth.",
         "poster_image":"http://upload.wikimedia.org/wikipedia/en/9/9b/The_Motorcycle_Diaries.jpg",
         "trailer_youtube_url":"https://www.youtube.com/watch?v=u6jz_b80V5g"
     },
@@ -13,7 +13,7 @@
     },
     "midnight_in_paris": {
         "title":"Midnight in Paris",
-        "storyline":"While on a trip to Paris with his fiancee's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
+        "storyline":"While on a trip to Paris with his fiancee's family, a screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
         "poster_image":"http://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Midnight_in_Paris_Poster.jpg/215px-Midnight_in_Paris_Poster.jpg",
         "trailer_youtube_url":"https://www.youtube.com/watch?v=FAfR8omt-CY"
     },
@@ -37,7 +37,7 @@
     },
     "y_tu_mama_tambien": {
         "title":"Y Tu Mama Tambien",
-        "storyline":"In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+        "storyline":"In Mexico, two teenage boys and an attractive older woman embark on a road trip.",
         "poster_image":"http://upload.wikimedia.org/wikipedia/en/thumb/6/63/Y_tu_mam%C3%A1_tambi%C3%A9n_poster.png/220px-Y_tu_mam%C3%A1_tambi%C3%A9n_poster.png",
         "trailer_youtube_url":"https://www.youtube.com/watch?v=3Qg6n7V3kO4"
     },
@@ -49,7 +49,7 @@
     },
     "the_one_i_love": {
         "title":"The One I Love",
-        "storyline":"Struggling with a marriage on the brink of falling apart, a couple escapes for a weekend in pursuit of their better selves, only to discover an unusual dilemma that awaits them.",
+        "storyline":"Struggling with a marriage on the brink of falling apart, a couple escapes for a weekend only to discover an unusual dilemma that awaits them.",
         "poster_image":"http://upload.wikimedia.org/wikipedia/en/thumb/4/41/TOIL_poster.jpg/220px-TOIL_poster.jpg",
         "trailer_youtube_url":"https://www.youtube.com/watch?v=jCOvhojlZzQ"
     }
