@@ -4,8 +4,8 @@ Generates a [simple website](http://jrleszcz.github.io/movie-website) to display
 
 ### Usage
 
-Input your favorite movies into `favorite_movies.json`.
-* `python entertainment_center.py my-favorite-movies-page.html`
+* Input your favorite movies into `favorite_movies.json`.
+* `python entertainment_center.py output-page-name.html`
 
 ### Requirements
 My Movie Library requires Python >2.7 and <3.0.
