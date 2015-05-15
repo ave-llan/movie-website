@@ -142,9 +142,12 @@ def create_movie_tiles_content(movies):
         )
     return content
 
-def open_movies_page(movies):
+def open_movies_page(movies, file_name):
+  if len(file_name) <= 5 or file_name[-5:] != '.html':
+    raise ValueError(file_name + " is not a valid html file name.")
+
   # Create or overwrite the output file
-  output_file = open('index.html', 'w')
+  output_file = open(file_name, 'w')
 
   # Replace the placeholder for the movie tiles with the actual dynamically generated content
   rendered_content = main_page_content.format(movie_tiles=create_movie_tiles_content(movies))
