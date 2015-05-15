@@ -1,6 +1,6 @@
 # My Movie Library
 
-Generates a [simple website](http://jrleszcz.github.io/movie-website) to display your favorite movies.
+Generates a [simple website](http://jrleszcz.github.io/movie-website) to display your favorite movies and play their trailers.
 
 ### Usage
 
