@@ -2,14 +2,19 @@
 
 Generates a [simple website](http://jrleszcz.github.io/movie-website) to display your favorite movies and play their trailers.
 
+
 ### Usage
 
 * Input your favorite movies into `favorite_movies.json`.
 * `python entertainment_center.py output-page-name.html`
 
+
 ### Requirements
+
 My Movie Library requires Python >2.7 and <3.0.
+
 [Kitchen](https://pythonhosted.org/kitchen/) module (for working with utf-8 encoded strings)
+
 
 ### favorite_movies.json
 
