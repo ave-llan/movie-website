@@ -9,6 +9,7 @@ Generates a [simple website](http://jrleszcz.github.io/movie-website) to display
 
 ### Requirements
 My Movie Library requires Python >2.7 and <3.0.
+[Kitchen](https://pythonhosted.org/kitchen/) module (for working with utf-8 encoded strings)
 
 ### favorite_movies.json
 
