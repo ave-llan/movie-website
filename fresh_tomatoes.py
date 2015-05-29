@@ -1,6 +1,7 @@
 import webbrowser
 import os
 import re
+from kitchen.text.converters import to_bytes
 
 # Styles and scripting for the page
 main_page_head = '''
@@ -137,10 +138,10 @@ def create_movie_tiles_content(movies):
 
         # Append the tile for the movie with its content filled in
         content += movie_tile_content.format(
-            movie_title=movie.title,
-            movie_storyline=movie.storyline,
-            poster_image_url=movie.poster_image_url,
-            trailer_youtube_id=trailer_youtube_id
+            movie_title=to_bytes(movie.title, encoding='utf-8'),
+            movie_storyline=to_bytes(movie.storyline, encoding='utf-8'),
+            poster_image_url=to_bytes(movie.poster_image_url, encoding='utf-8'),
+            trailer_youtube_id=to_bytes(trailer_youtube_id, encoding='utf-8')
         )
     return content
 

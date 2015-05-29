@@ -2,6 +2,7 @@ import fresh_tomatoes
 import media
 import json
 from sys import argv
+import codecs
 
 # output file name should end in .html
 _script, output_file_name = argv
@@ -9,8 +10,10 @@ _script, output_file_name = argv
 
 # gathers movie data from a .json file and returns a list of Movie objects
 def gather_movies(filename):
-    # open the .json file and convert it to a dictionary
-    movie_data = json.loads(open(filename).read())
+    # open the .json file as utf-8
+    movie_file = codecs.open(filename, 'r', 'utf-8')
+    # read the file and convert to dictionary
+    movie_data = json.loads(movie_file.read())
     movies = []
     for movie in movie_data:
         movies.append(media.Movie(movie_data[movie]["title"],
