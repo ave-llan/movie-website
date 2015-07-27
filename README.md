@@ -1,6 +1,4 @@
-# My Movie Library
-
-Generates a [simple website](http://jrleszcz.github.io/movie-website) to display your favorite movies and play their trailers.
+A Python module which dynamically generates a [simple website](http://jrleszcz.github.io/movie-website) to display a collection of movies and play their trailers.  Movie data is read from a JSON file and then automatically inserted into the new HTML page.
 
 
 ### Usage
